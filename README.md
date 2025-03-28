@@ -1,4 +1,4 @@
-<h1>**CIS 241 - Systems Programming &amp; Utilities course**</h1>
+<h1>CIS 241 - Systems Programming &amp; Utilities</h1>
 
 **Project 1**
   - Week 2: 1/17
