@@ -1,0 +1,14 @@
+==4321== Memcheck, a memory error detector
+==4321== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==4321== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==4321== Command: ./clear-orbs
+==4321== Parent PID: 379
+==4321== 
+==4321== 
+==4321== HEAP SUMMARY:
+==4321==     in use at exit: 0 bytes in 0 blocks
+==4321==   total heap usage: 5 allocs, 5 frees, 1,094 bytes allocated
+==4321== 
+==4321== All heap blocks were freed -- no leaks are possible
+==4321== 
+==4321== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
