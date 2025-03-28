@@ -1,4 +1,3 @@
-# systems-programming-and-utilities-class
 <h1>**CIS 241 - Systems Programming &amp; Utilities course**</h1>
 
 **Project 1**
